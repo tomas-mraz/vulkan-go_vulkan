@@ -4,7 +4,7 @@ package vulkan
 
 /*
 #cgo darwin CFLAGS: -D_GLFW_COCOA -Wno-deprecated-declarations
-#cgo darwin LDFLAGS: -lMoltenVK -lMoltenVK -framework Cocoa -framework IOKit
+#cgo darwin LDFLAGS: -lMoltenVK -framework Cocoa -framework IOKit
 
 #include "vulkan/vulkan.h"
 #include "vk_wrapper.h"
