@@ -2804,7 +2804,7 @@ const (
 	SurfaceTransformFlagBitsMaxEnum              SurfaceTransformFlagBits = 2147483647
 )
 
-// CompositeAlphaFlagBits as declared in https://www.khronos.org/registry/vulkan/specs/1.0-wsi_extensions/xhtml/vkspec.html#VkCompositeAlphaFlagBitsKHR
+// CompositeAlphaFlagBits as declared in https://registry.khronos.org/vulkan/specs/1.3-extensions/man/html/VkCompositeAlphaFlagBitsKHR.html
 type CompositeAlphaFlagBits int32
 
 // CompositeAlphaFlagBits enumeration from https://www.khronos.org/registry/vulkan/specs/1.0-wsi_extensions/xhtml/vkspec.html#VkCompositeAlphaFlagBitsKHR
