@@ -15,6 +15,8 @@ adding lots of C/C++ in the projects, also can be used to study Vulkan without
 diving too deep into C/C++ language semantics. For me it's just a matter of
 taste, writing Go code is simply more pleasant experience.
 
+See all demos in [vulkan-go/demos](https://github.com/vulkan-go/demos).
+
 ## Project history timeline
 
 * **2016-02-16** Vulkan API publicly released.
@@ -61,9 +63,7 @@ taste, writing Go code is simply more pleasant experience.
 
 * **2018-10-13** Updated to Vulkan 1.1.88 spec.
 
-![vulkan cube golang](http://dl.kc.vc/vulkan/screens/cube.gif)
-
-See all demos in [vulkan-go/demos](https://github.com/vulkan-go/demos).
+* **2022-11** Updated loader for [Android 8+ (Oreo)](https://android.googlesource.com/platform/external/vulkan-validation-layers/+/refs/heads/oreo-release/loader/LoaderAndLayerInterface.md) API level 26+
 
 ## How to use
 
